@@ -60,7 +60,6 @@ img {
 
 .footer {
     height: 400px;
-    /* margin: 0; */
     background: linear-gradient(90deg, #3179B8 0%, #89D1D1 100%);
     background-position: center;
     background-size: cover;
@@ -68,6 +67,14 @@ img {
     justify-content: center;
     align-items: center;
     text-align: center;
+}
 
+.footer p {
+    color: white;
+}
 
+#contactme {
+    font-size: 70px;
+    text-align: center;
+    font-weight: 700;
 }
