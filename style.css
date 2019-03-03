@@ -27,6 +27,12 @@ body {
     color: white;
 }
 
+.header2 p {
+    text-align: center;
+    margin: auto;
+    display: flex;
+}
+
 .container {
     width: 1200px;
     margin: auto;
