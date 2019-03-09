@@ -78,3 +78,56 @@ img {
     text-align: center;
     font-weight: 700;
 }
+
+.form {
+    /* margin-top: 50px; */
+    /* transition: all 4s ease-in-out;    */
+
+}
+
+.form-control {
+    width: 600px;
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #fff;
+    color: #ffffff;
+    font-size: 18px;
+    margin-bottom: 16px;
+}
+
+/* .form control p {
+    color: white;
+} */
+
+.input{
+    height: 45px;
+}
+
+form .submit {
+    width: 600px;
+    background: #fff;
+    border-color: white;
+    outline: none;
+    color: #3179B8;
+    font-size: 18px;
+    margin-bottom: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    height: 50px;
+    margin-top: 20px;
+}
+
+form .submit:hover{
+    background-color: #3179B8;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+
+}
+/* 
+.wave{
+    position: relative;
+    bottom -20px;
+} */
